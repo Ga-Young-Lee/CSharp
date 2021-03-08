@@ -6,10 +6,10 @@ namespace Hello_World
     class Program
     {
         static void Main(string[] args)
-        { 
-            Console.WriteLine("Hello CSharp World!"  );
-
         {
+            Console.WriteLine("Hello CSharp World!");
+
         }
+        
     }
 }
